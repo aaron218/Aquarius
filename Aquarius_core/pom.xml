@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>Aquarius</artifactId>
+        <groupId>net.newstring</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <description>最基本的HttpServer 提供http基本操作的解析 支持全部Http操作，支持Http2(后期通过Java9简化) 提供基本的接口用于操作和其他的子项目调用</description>
+
+    <artifactId>Aquarius-core</artifactId>
+
+
+</project>

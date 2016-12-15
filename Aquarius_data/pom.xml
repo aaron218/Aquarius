@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <artifactId>Aquarius</artifactId>
+        <groupId>net.newstring</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <description>针对数据的优化定制 提供对大数据量吞吐的支持，提供流数据的Http服务，相当于rest与file的结合 实际可以支撑大吞吐量下几乎全部的Http服务 </description>
+
+    <artifactId>Aquarius-data</artifactId>
+
+
+</project>
